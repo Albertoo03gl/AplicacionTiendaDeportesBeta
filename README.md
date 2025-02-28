@@ -1,9 +1,9 @@
 Introducción
-Este proyecto tiene como objetivo desarrollar una aplicación web para gestionar pedidos entre empresas. Se utilizarán tecnologías como JavaScript, HTML, PHP y CSS 
+Este proyecto tiene como objetivo desarrollar una aplicación web para gestionar pedidos entre empresas. Se utilizarán tecnologías como HTML, PHP, CSS y SQL 
 para crear una plataforma funcional donde las empresas puedan hacer pedidos, gestionar productos y controlar el estado de los pedidos.
 
 Tecnologías y Metodología
-Lenguajes: JavaScript, HTML, PHP, CSS
+Lenguajes: HTML, PHP, CSS
 Modelo de desarrollo: Espiral
 Metodologías: Análisis de requisitos, diseño estructurado y pruebas 
 
